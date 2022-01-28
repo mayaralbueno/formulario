@@ -1,0 +1,12 @@
+.container{
+    overflow: hidden;
+    margin-top: 5%;
+    width: 22%;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+body{
+    background-color: #F5F5F5;
+}
